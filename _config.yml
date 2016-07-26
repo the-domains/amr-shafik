@@ -1,19 +1,4 @@
-name: Amr Shafik
-favicon: null
-layout_spectrum: 0.3234783022198826
 typography_spectrum: 0.02873765816912055
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,19 @@ color:
   lightness: 0.7045879699289799
   saturation: 0.7235930801834911
   rhythmicContrast: 0.3023532582446933
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3234783022198826
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Amr Shafik
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
